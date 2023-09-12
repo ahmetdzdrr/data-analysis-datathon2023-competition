@@ -59,6 +59,15 @@ To use the code in this project, follow these steps:
 
 #### On Windows:
 
-  ```
-  venv\Scripts\activate
-'''
+      ```bash
+venv\Scripts\activate
+
+#### On macOS and Linux:
+      ```bash
+source venv/bin/activate
+
+## Install Required Dependencies
+To install the required dependencies, run the following command using pip:
+
+      ```bash
+pip install -r requirements.txt
