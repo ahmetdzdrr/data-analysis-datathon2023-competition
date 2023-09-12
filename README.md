@@ -41,9 +41,9 @@ Navigate to the directory where you want to clone the repository.
 
 Run the following command to clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/your-username/your-repository.git
+'''bash
+  git clone https://github.com/ahmetdzdrr/data-analysis-datathon2023-competition.git
+  
 Install Required Dependencies:
 
 Navigate to the project directory on your local machine using the terminal or command prompt.
