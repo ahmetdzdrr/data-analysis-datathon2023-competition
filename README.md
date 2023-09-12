@@ -41,7 +41,42 @@ Navigate to the directory where you want to clone the repository.
 
 Run the following command to clone the repository to your local machine:
 
-'''bash
+bash
+Copy code
 git clone https://github.com/your-username/your-repository.git
+Install Required Dependencies:
+
+Navigate to the project directory on your local machine using the terminal or command prompt.
+
+Create a virtual environment (optional but recommended):
+
+'''bash
+  python -m venv venv
+
+
+Activate the virtual environment:
+
+On Windows:
+
+'''bash
+  venv\Scripts\activate
+  
+On macOS and Linux:
+
+'''bash
+source venv/bin/activate
+
+Install the required dependencies using pip:
+
+'''bash
+  pip install -r requirements.txt
+
+
+Run the Script:
+
+After cloning the repository and installing the dependencies, you can run the main script by executing the following command:
+
+'''bash
+  python script_name.py
 
 
