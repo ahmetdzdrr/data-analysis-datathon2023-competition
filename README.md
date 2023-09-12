@@ -6,8 +6,7 @@ I performed an extensive data analysis on the competition dataset, covering EDA 
 - [Data Preprocessing](#data-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Model Building](#model-building)
-- [Results](#results)
-- [Conclusion](#conclusion)
+
 
 
 ## Introduction
